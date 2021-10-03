@@ -1,0 +1,77 @@
+body {
+	font-family: Arial;
+}
+
+div {
+	display: block;
+	background-color: lightblue;
+}
+
+label {
+	color: royalblue;
+}
+
+.container {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.header {
+	width: 100%;
+	height: 25%;
+}
+
+.main {
+	width: 100%;
+	height: 30%;
+}
+
+.footer {
+	width: 100%;
+	height: 45%;
+}
+
+.links-area {
+	position: absolute;
+	right: 20px;
+	top: 5px;
+}
+
+.logo-area {
+	text-align: center;
+}
+
+.form-area {
+	text-align: center;
+}
+
+.field {
+	width: 400px;
+	height: 35px;
+	border: 1px solid lightblue;
+	border-radius: 16px;
+	padding-left: 10px
+}
+
+.button {
+	width: 150px;
+	height: 40px;
+	border-radius: 16px;
+	background-color: royalblue;
+	color: white; 
+}
+
+.links-area a {
+	display: inline;
+	margin: 10px;
+}
+
+#logo {
+	max-width: 300px;
+	display: block;
+	margin-left: auto;
+    margin-right: auto 
+}
