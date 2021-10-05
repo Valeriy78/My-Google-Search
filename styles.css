@@ -75,3 +75,7 @@ label {
 	margin-left: auto;
     margin-right: auto 
 }
+
+.button:hover {
+	background-color: darkblue;
+}
